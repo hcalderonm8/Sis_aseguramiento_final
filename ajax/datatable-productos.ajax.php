@@ -96,7 +96,7 @@ class TablaProductos{
 
 		  }
 
-		  $datosJson = substr($datosJson, 0, -1);
+		  $datosJson = substr($datosJson, 0, -2);
 
 		 $datosJson .=   '] 
 
